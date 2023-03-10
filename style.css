@@ -1759,6 +1759,13 @@ section {
 .main-content img {
   max-width: 100%; }
 
+.image_article {
+  position: relative;
+  content: center;
+  size: auto;
+}
+
+
 .news {
   list-style: none;
   margin-bottom: 50px; }
