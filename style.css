@@ -1692,14 +1692,6 @@ form input[type="submit"], form button, form input[type="reset"] {
       @media screen and (max-width: 990px) {
         .home-slider .slides .slide-content {
           width: 100%; } }
-      
-      @media (max-width: 768px) {
-        .home-slider .slides .slide-content {
-          width: calc(100% / 2); } }
-          
-      @media (max-width: 480px) {
-        .home-slider .slides .slide-content {
-          width: 500%; } }
 
       .home-slider .slides .slide-content .slide-title {
         font-size: 60px;
