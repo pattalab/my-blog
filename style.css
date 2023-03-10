@@ -1676,7 +1676,7 @@ form input[type="submit"], form button, form input[type="reset"] {
     .home-slider .slides:after {
       content: " ";
       clear: both;
-      display: block;
+      display: flex;
       overflow: hidden;
       height: 0; }
     .home-slider .slides li {
@@ -1691,7 +1691,7 @@ form input[type="submit"], form button, form input[type="reset"] {
       width: 50%; }
       @media screen and (max-width: 990px) {
         .home-slider .slides .slide-content {
-          width: 100%; } }
+          width: calc(100% / 2); } }
       .home-slider .slides .slide-content .slide-title {
         font-size: 60px;
         font-size: 4.2857142857em;
