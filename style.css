@@ -1660,7 +1660,6 @@ form input[type="submit"], form button, form input[type="reset"] {
   background-size: cover;
   background-position: center center;
   width: 100%;
-  position: relative;
   margin-right: -100%; }
 
 #site-content .container {
