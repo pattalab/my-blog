@@ -1693,12 +1693,6 @@ form input[type="submit"], form button, form input[type="reset"] {
         .home-slider .slides .slide-content {
           width: 100%; } }
 
-      @media screen and (min-width: 250px) {
-        .home-slider .slides .slide-content {
-          width: 100%;
-        }
-      }
-
       .home-slider .slides .slide-content .slide-title {
         font-size: 60px;
         font-size: 4.2857142857em;
@@ -1730,21 +1724,6 @@ form input[type="submit"], form button, form input[type="reset"] {
         text-indent: -99999px; }
         .home-slider .flex-control-nav li a.flex-active {
           background-color: #f1d576; }
-
-          @media screen and (max-width: 767px) {
-            .home-slider .slides li {
-              min-height: auto;
-              padding: 15px;
-            }
-          }
-          
-          @media screen and (min-width: 768px) and (max-width: 990px) {
-            .home-slider .slides li {
-              min-height: auto;
-              padding: 20px;
-            }
-          }
-          
 
 .cta-section {
   margin: 30px -30px;
