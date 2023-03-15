@@ -1689,6 +1689,15 @@ form input[type="submit"], form button, form input[type="reset"] {
       float: left; }
     .home-slider .slides .slide-content {
       width: 50%; }
+      @media (min-width: 768px) {
+        .home-slider .slides .slide-content {
+          width: 750px; } }
+      @media (min-width: 992px) {
+        .home-slider .slides .slide-content {
+          width: 970px; } }
+      @media (min-width: 1200px) {
+        .home-slider .slides .slide-content {
+          width: 1170px; } }
       @media screen and (max-width: 990px) {
         .home-slider .slides .slide-content {
           width: 100%; } }
