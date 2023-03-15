@@ -1693,7 +1693,7 @@ form input[type="submit"], form button, form input[type="reset"] {
         .home-slider .slides .slide-content {
           width: 100%; } }
 
-      @media screen and (max-width: 500px) {
+      @media screen and (max-width: 250px) {
         .home-slider .slides .slide-content {
           width: 100%;
         }
