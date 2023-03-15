@@ -1693,6 +1693,12 @@ form input[type="submit"], form button, form input[type="reset"] {
         .home-slider .slides .slide-content {
           width: 100%; } }
 
+      @media screen and (max-width: 500px) {
+        .home-slider .slides .slide-content {
+          width: 100%;
+        }
+      }
+
       .home-slider .slides .slide-content .slide-title {
         font-size: 60px;
         font-size: 4.2857142857em;
