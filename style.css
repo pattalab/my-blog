@@ -1666,7 +1666,7 @@ form input[type="submit"], form button, form input[type="reset"] {
   background: white;
   padding: 0 30px; }
 
-.home-slider {
+.home-slider .container {
   margin: 0 -30px 30px;
   position: relative;
   background-color: #34323e; }
