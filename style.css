@@ -1654,6 +1654,11 @@ form input[type="submit"], form button, form input[type="reset"] {
     .mobile-navigation .menu .current-menu-item a, .mobile-navigation .menu a:hover {
       color: #bf5757; }
 
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;}
+
 .page-head {
   padding: 30px;
   min-height: 690px;
