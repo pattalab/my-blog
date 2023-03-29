@@ -1,0 +1,103 @@
+/* STYLE UNTUK NAVBAR, INDEX DAN FOLDER PELANGGAN */
+
+.warna1 {
+    background-color: #1E5128;
+}
+
+.warna2 {
+    background-color: #3C2A21;
+}
+
+.warna3 {
+    background-color: #EEC373;
+}
+
+.warna4 {
+    background-color: #E5E5CB;
+}
+
+.warna5 {
+    background-color: #473C33;
+}
+
+.banner{
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/banner.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.banner2{
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/banner2.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.banner3{
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/banner3.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+
+.highlighted-kategori {
+    height: 250px;
+}
+
+.kategori-baju-pria{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/baju-pria.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-baju-wanita{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/baju-wanita.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-sepatu{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/sepatu.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.no-decoration {
+    text-decoration: none;
+    color: white;
+}
+
+.no-decoration:hover {
+    color: #EEC373; 
+}
+
+.text-harga {
+    font-size: 22px;
+    color : #CA965C;
+}
+
+.image-box {
+    height: 250px;
+}
+
+.image-box img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.banner2 {
+    height: 45vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/banner.jpg');
+    background-position: 50% 30%;
+}
+
+.produk-terkait-image {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
